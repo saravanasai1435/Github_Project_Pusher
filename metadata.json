@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Project Pusher",
+  "description": "Create a GitHub repository and push your project files recursively with AI-assisted boilerplate generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
